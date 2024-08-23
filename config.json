@@ -1,0 +1,6 @@
+
+{
+    "host": "localhost",
+    "port": 7080,
+    "static_dir": "./static"
+}
